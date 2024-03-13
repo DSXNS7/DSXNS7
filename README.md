@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DSXNS7
-- 👀 I’m interested in Software Dovlepment
+- 👀 I’m interested in Software Devlopment
 - 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on my website
 - 😄 Pronouns: he
