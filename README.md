@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @DSXNS7
 - 👀 I’m interested in Software Dovlepment
-- 🌱 I’m currently learning tailwind css
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me no
+- 🌱 I’m currently learning TypeScript
+- 💞️ I’m looking to collaborate on my website
 - 😄 Pronouns: he
 
 
